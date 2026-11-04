@@ -35,9 +35,9 @@ Cybersecurity Student @ FIAP &bull; IT Support Jr & Infrastructure
 > *"Para sempre parte da minha história, dentro e fora do código."*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/46a3a4f2-a407-43b4-88cb-1b0a6457f9e9" alt="Minha companheira" width="160px" style="border-radius: 50%; border: 2px solid #58a6ff;" />
+  <img src="https://github.com/user-attachments/assets/d28fffa3-1bb4-4035-a93c-ea4e1eb5de2e" alt="Minha companheira" width="160px" style="border-radius: 50%; border: 2px solid #58a6ff;" />
 </p>
 
 <p align="center">
-  <i>A melhor parceira de longas noites de código e estudo. A sua lealdade vive em cada projeto. 🤍</i>
+  <i>A melhor parceira de longas de e estudo. A sua parceria vive em cada projeto Marinha. 🤍</i>
 </p>
