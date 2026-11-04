@@ -23,7 +23,20 @@ STATUS    : online | compilando conhecimento
 
 ---
 
-### 🎯 `[0x01] // CURRENT_FOCUS`
+### 📫 `[0x01] // PING_CONTACTS`
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-g-472a8228a" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iMyIgZmlsbD0iIzAwZmY0MSIvPjxjaXJjbGUgY3g9IjYuNSIgY3k9IjciIHI9IjEuOCIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjUiIHk9IjEwIiB3aWR0aD0iMyIgaGVpZ2h0PSI5IiBmaWxsPSIjMDAwIi8%2BPHBhdGggZD0iTTEwIDEwaDIuOHYxLjNjLjUtLjkgMS42LTEuNiAzLTEuNiAyLjYgMCAzLjIgMS43IDMuMiAzLjlWMTloLTN2LTQuNmMwLTEuMS0uMS0yLTEuMy0ycy0xLjcuOS0xLjcgMlYxOUgxMHoiIGZpbGw9IiMwMDAiLz48L3N2Zz4%3D" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:lcsbalan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Gmail Badge"/>
+  </a>
+</div>
+
+---
+
+### 🎯 `[0x02] // CURRENT_FOCUS`
 
 ```diff
 + Segurança Cibernética : TryHackMe (Linux Fundamentals, Web Hacking, Active Directory, Defensive/Offensive)
@@ -33,18 +46,18 @@ STATUS    : online | compilando conhecimento
 
 ---
 
-### 🛠️ `[0x02] // TECH_STACK`
+### 🛠️ `[0x03] // TECH_STACK`
 
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41)
 ![Fedora](https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=00ff41)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![Windows Server](https://img.shields.io/badge/Windows_Server-000000?style=for-the-badge&logo=windows&logoColor=00ff41)
+![Windows Server](https://img.shields.io/badge/Windows_Server-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwZmY0MSI%2BPHBhdGggZD0iTTEgMy42bDktMS4zdjkuMUgxek0xMSAyLjFMMjMgLjN2MTEuMUgxMXpNMSAxMi42aDl2OS4xbC05LTEuM3pNMTEgMTIuNmgxMnYxMS4xbC0xMi0xLjh6Ii8%2BPC9zdmc%2B)
+![Active Directory](https://img.shields.io/badge/Active_Directory-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwZmY0MSI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjUiIHJ4PSIxIi8%2BPHJlY3QgeD0iMiIgeT0iOS41IiB3aWR0aD0iMjAiIGhlaWdodD0iNSIgcng9IjEiLz48cmVjdCB4PSIyIiB5PSIxNyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjUiIHJ4PSIxIi8%2BPGNpcmNsZSBjeD0iNS41IiBjeT0iNC41IiByPSIxIiBmaWxsPSIjMDAwIi8%2BPGNpcmNsZSBjeD0iNS41IiBjeT0iMTIiIHI9IjEiIGZpbGw9IiMwMDAiLz48Y2lyY2xlIGN4PSI1LjUiIGN5PSIxOS41IiByPSIxIiBmaWxsPSIjMDAwIi8%2BPC9zdmc%2B)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-000000?style=for-the-badge&logo=cisco&logoColor=00ff41)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff41)
-![Active Directory](https://img.shields.io/badge/Active_Directory-000000?style=for-the-badge&logo=microsoft&logoColor=00ff41)
 
 </div>
 
@@ -53,28 +66,6 @@ STATUS    : online | compilando conhecimento
 [NETWORKING]  Cisco Packet Tracer | Wireshark | Análise de protocolos
 [SECURITY]    TryHackMe | Diagnóstico de sistemas | Hardening
 ```
-
----
-
-### 🗺️ `[0x03] // ROADMAP`
-
-```text
-[██████████] Suporte de TI           ✔ concluído
-[██████░░░░] Infraestrutura & Redes  ⟳ em andamento
-[████░░░░░░] Cybersecurity           ⟳ em andamento
-[██░░░░░░░░] Cloud Security          ▶ próximo alvo
-```
-
----
-
-### 📊 `[0x04] // STATS`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devluk4&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluk4&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9" alt="Top languages" />
-
-</div>
 
 <!-- TryHackMe: quando tiver o perfil público, adicionar o badge aqui.
 <div align="center">
@@ -86,20 +77,7 @@ STATUS    : online | compilando conhecimento
 
 ---
 
-### 📫 `[0x05] // PING_CONTACTS`
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-g-472a8228a" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:lcsbalan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Gmail Badge"/>
-  </a>
-</div>
-
----
-
-### 🐾 `[0x06] // IN_MEMORIAM.LOG`
+### 🐾 `[0x04] // IN_MEMORIAM.LOG`
 
 <div align="center">
 
